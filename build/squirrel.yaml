@@ -1,0 +1,50 @@
+__build_info:
+  rime_version: 1.5.3
+  timestamps:
+    squirrel: 1561294610
+    squirrel.custom: 1597927062
+app_options:
+  com.alfredapp.Alfred:
+    ascii_mode: false
+  com.apple.Terminal:
+    ascii_mode: false
+  com.blacktree.Quicksilver:
+    ascii_mode: false
+  com.googlecode.iterm2:
+    ascii_mode: false
+  "com.runningwithcrayons.Alfred-2":
+    ascii_mode: false
+  org.vim.MacVim:
+    ascii_mode: false
+chord_duration: 0.1
+config_version: 0.33
+preset_color_schemes:
+  light:
+    author: "register <registerdedicated@gmail.com>"
+    back_color: 0xFFFFFF
+    border_color: 0xE0B693
+    border_height: 7
+    border_width: 7
+    candidate_format: "%c. %@ "
+    candidate_text_color: 0x000000
+    comment_text_color: 0x999999
+    corner_radius: 5
+    font_face: "PingFangSC-Regular"
+    font_point: 18
+    hilited_candidate_back_color: 0xFFFFFF
+    hilited_candidate_label_color: 0xFF6941
+    hilited_candidate_text_color: 0xFF6941
+    hilited_comment_text_color: 0xFF6941
+    hilited_text_color: 0xFF6941
+    horizontal: true
+    inline_preedit: true
+    label_color: 0x999999
+    label_font_face: "PingFangSC-Light"
+    label_font_point: 14
+    name: register
+    text_color: 0x000000
+show_notifications_via_notification_center: true
+show_notifications_when: appropriate
+style:
+  color_scheme: light
+us_keyboard_layout: true
